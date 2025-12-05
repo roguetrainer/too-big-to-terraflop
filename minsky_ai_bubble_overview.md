@@ -3,7 +3,7 @@
 This document outlines the theoretical foundations of the simulation game "Too Big to teraflop," explaining the economic theories of Hyman Minsky, the mathematical models used to gamify them, and the parallels to the 2025-2026 AI infrastructure boom.
 
 ---
-![Too Big to teraflop](Too-Big-To-teraflop.png)
+![Too Big to teraflop](TB2TF.jpg)
 ---
 
 ## **A Note on the Title**
