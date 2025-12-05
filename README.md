@@ -1,4 +1,4 @@
-# Too Big to teraflop
+# Too Big to Teraflop
 
 A simulation game exploring Hyman Minsky's Financial Instability Hypothesis through the lens of the 2025-2026 AI infrastructure boom.
 
@@ -8,7 +8,7 @@ A simulation game exploring Hyman Minsky's Financial Instability Hypothesis thro
 
 ## What is This?
 
-"Too Big to teraflop" is an interactive economic simulation that lets you experience firsthand how financial bubbles form and collapse. You'll trade alongside AI-driven Value Traders and Momentum Traders as the market cycles through Minsky's five stages: Displacement, Boom, Euphoria, Distress, and Panic.
+"Too Big to Teraflop" is an interactive economic simulation that lets you experience firsthand how financial bubbles form and collapse. You'll trade alongside AI-driven Value Traders and Momentum Traders as the market cycles through Minsky's five stages: Displacement, Boom, Euphoria, Distress, and Panic.
 
 The game demonstrates why stability breeds instability, and how even transformative technologies like AI can fuel speculative bubbles that eventually crash.
 
